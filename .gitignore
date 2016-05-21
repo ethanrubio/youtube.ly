@@ -1,0 +1,9 @@
+node_modules
+.log
+.DS_Store
+._.gitignore
+build/
+*.log
+stats.json
+typings/
+jsconfig.json
