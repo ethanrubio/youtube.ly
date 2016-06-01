@@ -54,6 +54,7 @@
     "alt-utils": "^1.0.0",
     "node-uuid": "^1.4.7",
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-dom": "^15.1.0",
+    "youtube-api-search": "0.0.5"
   }
 }
